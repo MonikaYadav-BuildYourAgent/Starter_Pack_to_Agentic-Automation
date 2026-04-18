@@ -1,6 +1,6 @@
 # 🚀 Build Your Agent Challenge (UiPath Agent Builder)
 
-This folder contains all the required resources, guidelines, and instructions for the **UiPath Agent Builder Challenge**.
+This folder contains all the required resources, guidelines, and instructions for the UiPath Agent Builder Challenge.
 
 Participants will use UiPath Agent Builder to design an intelligent AI Agent that solves real-world problems using logic, reasoning, and structured outputs.
 
@@ -10,22 +10,22 @@ Participants will use UiPath Agent Builder to design an intelligent AI Agent tha
 
 Build an AI-powered agent that:
 
-* Takes user input
-* Processes it using logical reasoning
-* Produces structured and meaningful outputs
-* Solves a real-world problem effectively
+- Takes user input  
+- Processes it using logical reasoning  
+- Produces structured and meaningful outputs  
+- Solves a real-world problem effectively  
 
-Your solution should demonstrate **Agentic Automation capabilities** using UiPath Agent Builder.
+Your solution should demonstrate Agentic Automation capabilities using UiPath Agent Builder.
 
 ---
 
 ## 📁 What This Folder Contains
 
-* 📄 Challenge Guidelines
-* 🧠 Agent Building Best Practices (UiPath)
-* 📦 Steps to prepare and submit Agent ZIP file
-* 📊 Evaluation Criteria
-* 🔗 Submission Google Form Link
+- Challenge Guidelines  
+- Agent Building Best Practices (UiPath)  
+- Steps to prepare and submit Agent ZIP file  
+- Evaluation Criteria  
+- Submission Google Form Link  
 
 ---
 
@@ -33,107 +33,99 @@ Your solution should demonstrate **Agentic Automation capabilities** using UiPat
 
 Participants must submit their solution via the Google Form:
 
-👉 **Submission Link:**
-[https://forms.gle/bP9aArZaiU4zKzoo9](https://forms.gle/bP9aArZaiU4zKzoo9)
+👉 Submission Link:  
+https://forms.gle/bP9aArZaiU4zKzoo9  
 
-### Required Submission Fields:
+### Required Submission Fields
 
-* Full Name
-* Email Address
-* College / Organization Name
-* Agent Name
-* Problem Statement
-* Agent Description
-* ZIP File of UiPath Agent Project
+- Full Name  
+- Email Address  
+- College / Organization Name  
+- Agent Name  
+- Problem Statement  
+- Agent Description  
+- ZIP File of UiPath Agent Project  
 
 ---
 
 ## 📦 ZIP File Submission Guidelines
 
-Your `.zip` file must include the complete UiPath Agent project:
+Your `.zip` file must include:
 
-* `.uis` project file
-* System Prompt
-* User Prompt
-* Evaluator Prompt
-* All workflows and dependencies
-* Any supporting files used in the solution
+- `.uis` project file  
+- System Prompt  
+- User Prompt  
+- Evaluator Prompt  
+- All workflows and dependencies  
+- Supporting files used in the solution  
 
-### 📌 File Naming Format:
+### File Naming Format
 
-```
 YourName_AgentName.zip
-```
 
 ---
 
 ## 🛠️ Agent Building Best Practices (UiPath)
 
-To build a strong agent, ensure:
-
-* Clear and structured prompts (System, User, Evaluator)
-* Logical decision-making flow
-* Proper input/output handling
-* Context-aware responses
-* Simple and user-friendly interaction design
-* Focus on real-world usability, not just complexity
-* Proper testing before submission
+- Use clear System, User, and Evaluator prompts  
+- Ensure logical decision-making flow  
+- Handle inputs and outputs properly  
+- Make responses context-aware  
+- Keep interaction simple and user-friendly  
+- Focus on real-world usefulness  
+- Test your agent before submission  
 
 ---
 
 ## 🏆 Evaluation Criteria
 
-Your submission will be evaluated based on:
-
-* Problem relevance
-* Agent reasoning capability
-* Prompt design quality
-* Output accuracy and usefulness
-* User interaction experience
-* Creativity and innovation
-* Clarity of explanation
+- Problem relevance  
+- Agent reasoning capability  
+- Prompt design quality  
+- Output accuracy and usefulness  
+- User interaction experience  
+- Creativity and innovation  
+- Clarity of explanation  
 
 ---
 
 ## 💡 Example Use Cases
 
-* Employee Policy Assistant
-* Resume Feedback Agent
-* Career Guidance Agent
-* Study Planner Agent
-* Budget Planning Assistant
-* Productivity Assistant
+- Employee Policy Assistant  
+- Resume Feedback Agent  
+- Career Guidance Agent  
+- Study Planner Agent  
+- Budget Planning Assistant  
+- Productivity Assistant  
 
 ---
 
 ## 📅 Important Dates
 
-* 🗓️ Submission Deadline: **25 April 2026**
-* 🏆 Results Announcement: **30 April 2026**
+- Submission Deadline: 25 April 2026  
+- Results Announcement: 30 April 2026  
 
-### 🎯 Awards:
+### Awards
 
-* 🥇 1st Position
-* 🥈 2nd Position
-* 🥉 3rd Position
-* 🌟 Special Prize for Most Innovative / Creative Idea
+- 1st Position  
+- 2nd Position  
+- 3rd Position  
+- Special Prize for Most Innovative / Creative Idea  
 
 ---
 
 ## ⚠️ Important Notes
 
-* Ensure your agent is fully functional before submission
-* Incomplete or broken projects will not be evaluated
-* Focus on solving real-world problems
-* Keep your solution simple, logical, and impactful
+- Ensure your agent is fully functional before submission  
+- Incomplete or broken projects will not be evaluated  
+- Focus on solving real-world problems  
+- Keep solution simple and impactful  
 
 ---
 
 ## 🎉 Final Note
 
-Think practical. Think creative. Think impactful.
-Build something that solves a real problem using the power of Agentic Automation.
+Think practical, creative, and impactful.
+Build something that solves a real problem using Agentic Automation.
 
-🚀 Good luck — we’re excited to see your innovation!
-
----
+Good luck 🚀
